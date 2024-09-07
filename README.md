@@ -1,3 +1,7 @@
+# Created a frontend in React for the WestGarden company using tailwind css
+
+It is planned to adapt the screen and animation of some parts of the site <br/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

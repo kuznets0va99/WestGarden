@@ -30,10 +30,7 @@ export default function Carousel({
         ))}
       </div>
       <div className="absolute inset-0 flex items-center justify-between p-4">
-        <button
-          onClick={prev}
-          className="p-1 rounded-full shadow bg-black/45 text-white hover:bg-black/80"
-        >
+        <button onClick={prev} className="p-1 rounded-full shadow bg-black/45 text-white hover:bg-black/80">
           <ChevronLeft size={40} />
         </button>
         <button
